@@ -1,4 +1,4 @@
-num_iterations = 1000; // The higher the number of iterations, the more accurate the value of pi calculated
+num_iterations = 99999; // The higher the number of iterations, the more precise the value of pi calculated
 
 function calculate_pi(pi, count) {
   for(var i = 0; i <= num_iterations; i++) {
